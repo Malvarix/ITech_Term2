@@ -1,0 +1,12 @@
+body{
+	background-image: url(back1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+	font-family: cursive;
+	font-size: 20px;
+}
+h3, p, label, .result{
+	color : white;
+}
